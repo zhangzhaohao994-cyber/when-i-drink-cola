@@ -1,0 +1,266 @@
+{
+  "title": "OPEN Thank You",
+  "duration_seconds": 204.0,
+  "bpm": 138,
+  "meter": "4/4",
+  "theme": "Happy Birthday to You (melody only, adapted to techno)",
+  "sample_rate": 44100,
+  "channels": 2,
+  "wav_peak_dbfs": -1.600000279326729,
+  "mp3_decoded_peak_dbfs": -1.731406982161972,
+  "people": 22,
+  "artist_count": 11,
+  "curator_count": 1,
+  "photography_count": 2,
+  "team_count": 8,
+  "independent_name_segments": 44,
+  "total_vocal_segments": 47,
+  "all_bilingual_names_covered": true,
+  "no_overlapping_utterances": true,
+  "min_name_vocal_to_backing_db": 7.799999237060547,
+  "min_source_to_master_name_correlation": 0.8685928038680935,
+  "name_presence_checks": [
+    {
+      "key": "p00_zh",
+      "name": "比尔·艾奇森",
+      "source_to_master_correlation": 0.8703321112310658
+    },
+    {
+      "key": "p00_en",
+      "name": "Bill Aitchison",
+      "source_to_master_correlation": 0.9216471599258026
+    },
+    {
+      "key": "p01_zh",
+      "name": "蔡青",
+      "source_to_master_correlation": 0.8770696336956633
+    },
+    {
+      "key": "p01_en",
+      "name": "Cai Qing",
+      "source_to_master_correlation": 0.8998112879224895
+    },
+    {
+      "key": "p02_zh",
+      "name": "埃里克·勒图尔诺",
+      "source_to_master_correlation": 0.9182423210646145
+    },
+    {
+      "key": "p02_en",
+      "name": "Éric Létourneau",
+      "source_to_master_correlation": 0.9184644984690439
+    },
+    {
+      "key": "p03_zh",
+      "name": "最高",
+      "source_to_master_correlation": 0.915910655406342
+    },
+    {
+      "key": "p03_en",
+      "name": "Highest",
+      "source_to_master_correlation": 0.9113094604107882
+    },
+    {
+      "key": "p04_zh",
+      "name": "朱莉·安德烈·T.",
+      "source_to_master_correlation": 0.9198454815143239
+    },
+    {
+      "key": "p04_en",
+      "name": "Julie Andrée T.",
+      "source_to_master_correlation": 0.9230463761927332
+    },
+    {
+      "key": "p05_zh",
+      "name": "克洛代尔·T.",
+      "source_to_master_correlation": 0.9031458053514283
+    },
+    {
+      "key": "p05_en",
+      "name": "Claudelle T.",
+      "source_to_master_correlation": 0.9208255905013861
+    },
+    {
+      "key": "p06_zh",
+      "name": "金微",
+      "source_to_master_correlation": 0.9083210063025026
+    },
+    {
+      "key": "p06_en",
+      "name": "KIMVI",
+      "source_to_master_correlation": 0.9161951954261511
+    },
+    {
+      "key": "p07_zh",
+      "name": "吕德生",
+      "source_to_master_correlation": 0.9237543390491458
+    },
+    {
+      "key": "p07_en",
+      "name": "Lyu Desheng",
+      "source_to_master_correlation": 0.9040482212007119
+    },
+    {
+      "key": "p08_zh",
+      "name": "玛丽安娜·帕普斯特",
+      "source_to_master_correlation": 0.9112467354005449
+    },
+    {
+      "key": "p08_en",
+      "name": "Marianne Papst",
+      "source_to_master_correlation": 0.9176315694959759
+    },
+    {
+      "key": "p09_zh",
+      "name": "郑一方",
+      "source_to_master_correlation": 0.911602163594283
+    },
+    {
+      "key": "p09_en",
+      "name": "Zheng Yifang",
+      "source_to_master_correlation": 0.9235880503676461
+    },
+    {
+      "key": "p10_zh",
+      "name": "括号",
+      "source_to_master_correlation": 0.8895870427446276
+    },
+    {
+      "key": "p10_en",
+      "name": "Parentheses",
+      "source_to_master_correlation": 0.9095709164007333
+    },
+    {
+      "key": "p11_zh",
+      "name": "陈进",
+      "source_to_master_correlation": 0.9196254006530058
+    },
+    {
+      "key": "p11_en",
+      "name": "Chen Jin",
+      "source_to_master_correlation": 0.9087367894104945
+    },
+    {
+      "key": "p12_zh",
+      "name": "王昕玮",
+      "source_to_master_correlation": 0.9234023364331128
+    },
+    {
+      "key": "p12_en",
+      "name": "Wang Xinwei",
+      "source_to_master_correlation": 0.9022667495972907
+    },
+    {
+      "key": "p13_zh",
+      "name": "李帅",
+      "source_to_master_correlation": 0.8890785828442278
+    },
+    {
+      "key": "p13_en",
+      "name": "Li Shuai",
+      "source_to_master_correlation": 0.9222612476496419
+    },
+    {
+      "key": "p14_zh",
+      "name": "甘丽君",
+      "source_to_master_correlation": 0.9023665274989389
+    },
+    {
+      "key": "p14_en",
+      "name": "Gan Lijun",
+      "source_to_master_correlation": 0.9170375116672155
+    },
+    {
+      "key": "p15_zh",
+      "name": "刘新山",
+      "source_to_master_correlation": 0.9014139465360177
+    },
+    {
+      "key": "p15_en",
+      "name": "Liu Xinshan",
+      "source_to_master_correlation": 0.9161166880584853
+    },
+    {
+      "key": "p16_zh",
+      "name": "陈永栋",
+      "source_to_master_correlation": 0.9204968054035257
+    },
+    {
+      "key": "p16_en",
+      "name": "Chen Yongdong",
+      "source_to_master_correlation": 0.9079411198679957
+    },
+    {
+      "key": "p17_zh",
+      "name": "王宏伟",
+      "source_to_master_correlation": 0.9164536066060438
+    },
+    {
+      "key": "p17_en",
+      "name": "Wang Hongwei",
+      "source_to_master_correlation": 0.9025831392338384
+    },
+    {
+      "key": "p18_zh",
+      "name": "赵晓凯",
+      "source_to_master_correlation": 0.8685928038680935
+    },
+    {
+      "key": "p18_en",
+      "name": "Zhao Xiaokai",
+      "source_to_master_correlation": 0.9222686034442004
+    },
+    {
+      "key": "p19_zh",
+      "name": "叶月明",
+      "source_to_master_correlation": 0.9119196394014394
+    },
+    {
+      "key": "p19_en",
+      "name": "Ye Yueming",
+      "source_to_master_correlation": 0.9206519394990855
+    },
+    {
+      "key": "p20_zh",
+      "name": "吕子云",
+      "source_to_master_correlation": 0.9138152576499005
+    },
+    {
+      "key": "p20_en",
+      "name": "Lü Ziyun",
+      "source_to_master_correlation": 0.9009085989851364
+    },
+    {
+      "key": "p21_zh",
+      "name": "米亚",
+      "source_to_master_correlation": 0.922661761304249
+    },
+    {
+      "key": "p21_en",
+      "name": "Mia",
+      "source_to_master_correlation": 0.9142080340199111
+    }
+  ],
+  "pronunciation_note": "Native-language TTS sources with restrained melodic WORLD resynthesis. Technical checks establish source presence and coverage; no independent human native-speaker pronunciation audit.",
+  "open_word_checks": [
+    {
+      "segment": "intro_zh",
+      "whole_English_word_source_identical": true,
+      "source_to_master_correlation": 0.9831930348652154
+    },
+    {
+      "segment": "intro_en",
+      "whole_English_word_source_identical": true,
+      "source_to_master_correlation": 0.9667232760643548
+    },
+    {
+      "segment": "closing",
+      "whole_English_word_source_identical": true,
+      "source_to_master_correlation": 0.9953626476562882
+    }
+  ],
+  "non_name_phrases": 3,
+  "revision": "Concise name-led edition; vowel-sustained Happy Birthday motifs; whole English Open word in both language contexts.",
+  "integrated_loudness_lufs": -12.1,
+  "true_peak_dbtp": -1.6
+}
