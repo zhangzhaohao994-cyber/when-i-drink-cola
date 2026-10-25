@@ -1,6 +1,9 @@
 'use strict';
-const audio=document.querySelector('#audio'),wave=document.querySelector('#wave'),statusText=document.querySelector('#status'),rows=[...document.querySelectorAll('#lyrics li')];
+const audio=document.querySelector('#audio'),wave=document.querySelector('#wave'),statusText=document.querySelector('#status'),rows=[...document.querySelectorAll('[data-lang]')];
 let track=null;
 fetch('assets/track.json').then(r=>{if(!r.ok)throw Error('metadata');return r.json()}).then(data=>{track=data;const max=Math.max(...data.waveform);data.waveform.forEach(v=>{const el=document.createElement('i');el.style.height=`${Math.max(4,Math.round(v/max*62))}px`;wave.append(el)});update()}).catch(()=>{wave.hidden=true});
 function update(){if(!track)return;const t=audio.currentTime;const event=track.events.find(e=>t>=e.start&&t<=e.end+.03);rows.forEach(row=>row.classList.toggle('active',row.dataset.lang===event?.language));[...wave.children].forEach((el,i)=>el.classList.toggle('played',i/track.waveform.length<t/246));}
 audio.addEventListener('timeupdate',update);audio.addEventListener('play',()=>statusText.textContent='正在播放 · 国际歌旋律 / 强化 Techno 版');audio.addEventListener('pause',()=>statusText.textContent=audio.ended?'播放结束。再来一口？':'已暂停。');audio.addEventListener('waiting',()=>statusText.textContent='正在加载音频…');audio.addEventListener('playing',()=>statusText.textContent='正在播放 · 国际歌旋律 / 强化 Techno 版');audio.addEventListener('error',()=>statusText.textContent='音频暂时无法播放，可尝试刷新或使用下方下载链接。');
+
+const heroPlay=document.querySelector('#hero-play');
+if(heroPlay){heroPlay.addEventListener('click',()=>{if(audio.paused){audio.play().catch(()=>{statusText.textContent='暂时无法播放，请使用下方音频控件重试。';audio.focus()})}else audio.pause()});audio.addEventListener('play',()=>{heroPlay.textContent='Ⅱ 暂停音乐';heroPlay.setAttribute('aria-pressed','true')});audio.addEventListener('pause',()=>{heroPlay.textContent='▶ 播放音乐';heroPlay.setAttribute('aria-pressed','false')});heroPlay.setAttribute('aria-pressed','false')}
