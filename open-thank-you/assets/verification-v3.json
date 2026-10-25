@@ -1,0 +1,535 @@
+{
+  "title": "OPEN Thank You",
+  "duration_seconds": 204.0,
+  "bpm": 138,
+  "meter": "4/4",
+  "theme": "Happy Birthday to You (melody only, adapted to techno)",
+  "sample_rate": 44100,
+  "channels": 2,
+  "wav_peak_dbfs": -1.600000279326729,
+  "mp3_decoded_peak_dbfs": -1.731406982161972,
+  "people": 22,
+  "artist_count": 11,
+  "curator_count": 1,
+  "photography_count": 2,
+  "team_count": 8,
+  "independent_name_segments": 44,
+  "total_vocal_segments": 47,
+  "all_bilingual_names_covered": true,
+  "no_overlapping_utterances": true,
+  "min_name_vocal_to_backing_db": 7.799999713897705,
+  "min_source_to_master_name_correlation": 0.8610723740071199,
+  "name_presence_checks": [
+    {
+      "key": "p00_zh",
+      "name": "比尔·艾奇森，谢谢你。",
+      "source_to_master_correlation": 0.8720231102610237
+    },
+    {
+      "key": "p00_en",
+      "name": "Bill Aitchison, thank you.",
+      "source_to_master_correlation": 0.9212485099710902
+    },
+    {
+      "key": "p01_zh",
+      "name": "蔡青，谢谢你。",
+      "source_to_master_correlation": 0.8757178024340656
+    },
+    {
+      "key": "p01_en",
+      "name": "Cai Qing, thank you.",
+      "source_to_master_correlation": 0.9034947981799859
+    },
+    {
+      "key": "p02_zh",
+      "name": "埃里克·勒图尔诺，谢谢你。",
+      "source_to_master_correlation": 0.9146590497910274
+    },
+    {
+      "key": "p02_en",
+      "name": "Éric Létourneau, thank you.",
+      "source_to_master_correlation": 0.9211951519612753
+    },
+    {
+      "key": "p03_zh",
+      "name": "最高，谢谢你。",
+      "source_to_master_correlation": 0.889058964895038
+    },
+    {
+      "key": "p03_en",
+      "name": "Highest, thank you.",
+      "source_to_master_correlation": 0.9204581187428599
+    },
+    {
+      "key": "p04_zh",
+      "name": "朱莉·安德烈·T.，谢谢你。",
+      "source_to_master_correlation": 0.9030776036052822
+    },
+    {
+      "key": "p04_en",
+      "name": "Julie Andrée T., thank you.",
+      "source_to_master_correlation": 0.9149297771775495
+    },
+    {
+      "key": "p05_zh",
+      "name": "克洛代尔·T.，谢谢你。",
+      "source_to_master_correlation": 0.9129116978190481
+    },
+    {
+      "key": "p05_en",
+      "name": "Claudelle T., thank you.",
+      "source_to_master_correlation": 0.9133699996138188
+    },
+    {
+      "key": "p06_zh",
+      "name": "金微，谢谢你。",
+      "source_to_master_correlation": 0.8951729597245485
+    },
+    {
+      "key": "p06_en",
+      "name": "KIMVI, thank you.",
+      "source_to_master_correlation": 0.9220795923457035
+    },
+    {
+      "key": "p07_zh",
+      "name": "吕德生，谢谢你。",
+      "source_to_master_correlation": 0.8889047514599905
+    },
+    {
+      "key": "p07_en",
+      "name": "Lyu Desheng, thank you.",
+      "source_to_master_correlation": 0.9182298270414637
+    },
+    {
+      "key": "p08_zh",
+      "name": "玛丽安娜·帕普斯特，谢谢你。",
+      "source_to_master_correlation": 0.9092218122473864
+    },
+    {
+      "key": "p08_en",
+      "name": "Marianne Papst, thank you.",
+      "source_to_master_correlation": 0.9174428274643521
+    },
+    {
+      "key": "p09_zh",
+      "name": "郑一方，谢谢你。",
+      "source_to_master_correlation": 0.9162974900806982
+    },
+    {
+      "key": "p09_en",
+      "name": "Zheng Yifang, thank you.",
+      "source_to_master_correlation": 0.9188746598565206
+    },
+    {
+      "key": "p10_zh",
+      "name": "括号，谢谢你。",
+      "source_to_master_correlation": 0.8832664806884887
+    },
+    {
+      "key": "p10_en",
+      "name": "Parentheses, thank you.",
+      "source_to_master_correlation": 0.9125758281033141
+    },
+    {
+      "key": "p11_zh",
+      "name": "陈进，谢谢你。",
+      "source_to_master_correlation": 0.8928025298103108
+    },
+    {
+      "key": "p11_en",
+      "name": "Chen Jin, thank you.",
+      "source_to_master_correlation": 0.9091355694792754
+    },
+    {
+      "key": "p12_zh",
+      "name": "王昕玮，谢谢你。",
+      "source_to_master_correlation": 0.9215439361480164
+    },
+    {
+      "key": "p12_en",
+      "name": "Wang Xinwei, thank you.",
+      "source_to_master_correlation": 0.9048063065885241
+    },
+    {
+      "key": "p13_zh",
+      "name": "李帅，谢谢你。",
+      "source_to_master_correlation": 0.9112365364311523
+    },
+    {
+      "key": "p13_en",
+      "name": "Li Shuai, thank you.",
+      "source_to_master_correlation": 0.9168055349477329
+    },
+    {
+      "key": "p14_zh",
+      "name": "甘丽君，谢谢你。",
+      "source_to_master_correlation": 0.8909468560768257
+    },
+    {
+      "key": "p14_en",
+      "name": "Gan Lijun, thank you.",
+      "source_to_master_correlation": 0.921420671878354
+    },
+    {
+      "key": "p15_zh",
+      "name": "刘新山，谢谢你。",
+      "source_to_master_correlation": 0.8610723740071199
+    },
+    {
+      "key": "p15_en",
+      "name": "Liu Xinshan, thank you.",
+      "source_to_master_correlation": 0.9164065753714885
+    },
+    {
+      "key": "p16_zh",
+      "name": "陈永栋，谢谢你。",
+      "source_to_master_correlation": 0.9149429196966454
+    },
+    {
+      "key": "p16_en",
+      "name": "Chen Yongdong, thank you.",
+      "source_to_master_correlation": 0.9076003609731602
+    },
+    {
+      "key": "p17_zh",
+      "name": "王宏伟，谢谢你。",
+      "source_to_master_correlation": 0.9210881558139444
+    },
+    {
+      "key": "p17_en",
+      "name": "Wang Hongwei, thank you.",
+      "source_to_master_correlation": 0.9046752298887014
+    },
+    {
+      "key": "p18_zh",
+      "name": "赵晓凯，谢谢你。",
+      "source_to_master_correlation": 0.8716563610998036
+    },
+    {
+      "key": "p18_en",
+      "name": "Zhao Xiaokai, thank you.",
+      "source_to_master_correlation": 0.9143506856964766
+    },
+    {
+      "key": "p19_zh",
+      "name": "叶月明，谢谢你。",
+      "source_to_master_correlation": 0.8984495349572714
+    },
+    {
+      "key": "p19_en",
+      "name": "Ye Yueming, thank you.",
+      "source_to_master_correlation": 0.9195236286458045
+    },
+    {
+      "key": "p20_zh",
+      "name": "吕子云，谢谢你。",
+      "source_to_master_correlation": 0.9110282751231764
+    },
+    {
+      "key": "p20_en",
+      "name": "Lü Ziyun, thank you.",
+      "source_to_master_correlation": 0.9161135798170615
+    },
+    {
+      "key": "p21_zh",
+      "name": "米亚，谢谢你。",
+      "source_to_master_correlation": 0.9137276645121707
+    },
+    {
+      "key": "p21_en",
+      "name": "Mia, thank you.",
+      "source_to_master_correlation": 0.9121471034496834
+    }
+  ],
+  "pronunciation_note": "Native-language TTS sources with restrained melodic WORLD resynthesis. Technical checks establish source presence and coverage; no independent human native-speaker pronunciation audit.",
+  "open_word_checks": [
+    {
+      "segment": "intro_zh",
+      "whole_English_word_source_identical": true,
+      "source_to_master_correlation": 0.9831930348652154
+    },
+    {
+      "segment": "intro_en",
+      "whole_English_word_source_identical": true,
+      "source_to_master_correlation": 0.9667232760643548
+    },
+    {
+      "segment": "closing",
+      "whole_English_word_source_identical": true,
+      "source_to_master_correlation": 0.9953626476562882
+    }
+  ],
+  "non_name_phrases": 3,
+  "revision": "Each of 22 people has a Chinese name + 谢谢你 and English name + thank you; opening Open 谢谢你 / Open thanks.",
+  "name_thanks_checks": [
+    {
+      "key": "p00_zh",
+      "name_preserved": true,
+      "thanks_appended": true,
+      "thanks_to_master_correlation": 0.8948104306644394
+    },
+    {
+      "key": "p00_en",
+      "name_preserved": true,
+      "thanks_appended": true,
+      "thanks_to_master_correlation": 0.9203681084291264
+    },
+    {
+      "key": "p01_zh",
+      "name_preserved": true,
+      "thanks_appended": true,
+      "thanks_to_master_correlation": 0.8976201097072996
+    },
+    {
+      "key": "p01_en",
+      "name_preserved": true,
+      "thanks_appended": true,
+      "thanks_to_master_correlation": 0.9167214279913004
+    },
+    {
+      "key": "p02_zh",
+      "name_preserved": true,
+      "thanks_appended": true,
+      "thanks_to_master_correlation": 0.9084512875817358
+    },
+    {
+      "key": "p02_en",
+      "name_preserved": true,
+      "thanks_appended": true,
+      "thanks_to_master_correlation": 0.894322826654906
+    },
+    {
+      "key": "p03_zh",
+      "name_preserved": true,
+      "thanks_appended": true,
+      "thanks_to_master_correlation": 0.8734571040787837
+    },
+    {
+      "key": "p03_en",
+      "name_preserved": true,
+      "thanks_appended": true,
+      "thanks_to_master_correlation": 0.9313323429170859
+    },
+    {
+      "key": "p04_zh",
+      "name_preserved": true,
+      "thanks_appended": true,
+      "thanks_to_master_correlation": 0.8572423390490743
+    },
+    {
+      "key": "p04_en",
+      "name_preserved": true,
+      "thanks_appended": true,
+      "thanks_to_master_correlation": 0.8868663965652348
+    },
+    {
+      "key": "p05_zh",
+      "name_preserved": true,
+      "thanks_appended": true,
+      "thanks_to_master_correlation": 0.9125586811924543
+    },
+    {
+      "key": "p05_en",
+      "name_preserved": true,
+      "thanks_appended": true,
+      "thanks_to_master_correlation": 0.8893441443370029
+    },
+    {
+      "key": "p06_zh",
+      "name_preserved": true,
+      "thanks_appended": true,
+      "thanks_to_master_correlation": 0.8763750927695331
+    },
+    {
+      "key": "p06_en",
+      "name_preserved": true,
+      "thanks_appended": true,
+      "thanks_to_master_correlation": 0.9198152245481218
+    },
+    {
+      "key": "p07_zh",
+      "name_preserved": true,
+      "thanks_appended": true,
+      "thanks_to_master_correlation": 0.8672473246665222
+    },
+    {
+      "key": "p07_en",
+      "name_preserved": true,
+      "thanks_appended": true,
+      "thanks_to_master_correlation": 0.9276222674666377
+    },
+    {
+      "key": "p08_zh",
+      "name_preserved": true,
+      "thanks_appended": true,
+      "thanks_to_master_correlation": 0.9244780344299943
+    },
+    {
+      "key": "p08_en",
+      "name_preserved": true,
+      "thanks_appended": true,
+      "thanks_to_master_correlation": 0.9075419162759827
+    },
+    {
+      "key": "p09_zh",
+      "name_preserved": true,
+      "thanks_appended": true,
+      "thanks_to_master_correlation": 0.8981076142067076
+    },
+    {
+      "key": "p09_en",
+      "name_preserved": true,
+      "thanks_appended": true,
+      "thanks_to_master_correlation": 0.9223290401052561
+    },
+    {
+      "key": "p10_zh",
+      "name_preserved": true,
+      "thanks_appended": true,
+      "thanks_to_master_correlation": 0.9206085558433146
+    },
+    {
+      "key": "p10_en",
+      "name_preserved": true,
+      "thanks_appended": true,
+      "thanks_to_master_correlation": 0.9276865835384842
+    },
+    {
+      "key": "p11_zh",
+      "name_preserved": true,
+      "thanks_appended": true,
+      "thanks_to_master_correlation": 0.8818240872227353
+    },
+    {
+      "key": "p11_en",
+      "name_preserved": true,
+      "thanks_appended": true,
+      "thanks_to_master_correlation": 0.9071006042259628
+    },
+    {
+      "key": "p12_zh",
+      "name_preserved": true,
+      "thanks_appended": true,
+      "thanks_to_master_correlation": 0.9415666693275344
+    },
+    {
+      "key": "p12_en",
+      "name_preserved": true,
+      "thanks_appended": true,
+      "thanks_to_master_correlation": 0.9217381614987612
+    },
+    {
+      "key": "p13_zh",
+      "name_preserved": true,
+      "thanks_appended": true,
+      "thanks_to_master_correlation": 0.8975246212930413
+    },
+    {
+      "key": "p13_en",
+      "name_preserved": true,
+      "thanks_appended": true,
+      "thanks_to_master_correlation": 0.9143030235917037
+    },
+    {
+      "key": "p14_zh",
+      "name_preserved": true,
+      "thanks_appended": true,
+      "thanks_to_master_correlation": 0.8894258445141362
+    },
+    {
+      "key": "p14_en",
+      "name_preserved": true,
+      "thanks_appended": true,
+      "thanks_to_master_correlation": 0.9184192701168533
+    },
+    {
+      "key": "p15_zh",
+      "name_preserved": true,
+      "thanks_appended": true,
+      "thanks_to_master_correlation": 0.8833846133254976
+    },
+    {
+      "key": "p15_en",
+      "name_preserved": true,
+      "thanks_appended": true,
+      "thanks_to_master_correlation": 0.9149918383944763
+    },
+    {
+      "key": "p16_zh",
+      "name_preserved": true,
+      "thanks_appended": true,
+      "thanks_to_master_correlation": 0.9141968766989521
+    },
+    {
+      "key": "p16_en",
+      "name_preserved": true,
+      "thanks_appended": true,
+      "thanks_to_master_correlation": 0.8918005317316835
+    },
+    {
+      "key": "p17_zh",
+      "name_preserved": true,
+      "thanks_appended": true,
+      "thanks_to_master_correlation": 0.9161876602516439
+    },
+    {
+      "key": "p17_en",
+      "name_preserved": true,
+      "thanks_appended": true,
+      "thanks_to_master_correlation": 0.9183602020612992
+    },
+    {
+      "key": "p18_zh",
+      "name_preserved": true,
+      "thanks_appended": true,
+      "thanks_to_master_correlation": 0.9031237678096468
+    },
+    {
+      "key": "p18_en",
+      "name_preserved": true,
+      "thanks_appended": true,
+      "thanks_to_master_correlation": 0.9451356824292348
+    },
+    {
+      "key": "p19_zh",
+      "name_preserved": true,
+      "thanks_appended": true,
+      "thanks_to_master_correlation": 0.8783564364784192
+    },
+    {
+      "key": "p19_en",
+      "name_preserved": true,
+      "thanks_appended": true,
+      "thanks_to_master_correlation": 0.9221849258297486
+    },
+    {
+      "key": "p20_zh",
+      "name_preserved": true,
+      "thanks_appended": true,
+      "thanks_to_master_correlation": 0.9067273471132983
+    },
+    {
+      "key": "p20_en",
+      "name_preserved": true,
+      "thanks_appended": true,
+      "thanks_to_master_correlation": 0.9181389652546479
+    },
+    {
+      "key": "p21_zh",
+      "name_preserved": true,
+      "thanks_appended": true,
+      "thanks_to_master_correlation": 0.9037243553352791
+    },
+    {
+      "key": "p21_en",
+      "name_preserved": true,
+      "thanks_appended": true,
+      "thanks_to_master_correlation": 0.891123830350639
+    }
+  ],
+  "all_44_names_followed_by_thanks": true,
+  "integrated_loudness_lufs": -12.5,
+  "true_peak_dbtp": -1.6,
+  "website_format_unchanged": true,
+  "bilingual_thanks_preview_buttons": 22
+}
